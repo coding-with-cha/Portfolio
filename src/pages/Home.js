@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 import {Linkedin} from 'react-bootstrap-icons'
 import {Github} from 'react-bootstrap-icons'
 
-const About = () => {
+const Home = () => {
   return (
     <div className='About'>
       <h1>CHAIMA <span>MEJBRI</span></h1>
@@ -25,4 +25,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Home

@@ -1,7 +1,7 @@
 import "./style/style.css"
 import {Routes, Route} from 'react-router-dom'
 import Navbar from './components/Navbar'
-import About from './pages/About'
+import About from './pages/Home'
 import Experience from './pages/Experience'
 import Education from './pages/Education'
 import Skills from './pages/Skills'
